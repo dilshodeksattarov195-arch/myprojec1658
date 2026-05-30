@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperpncrypt",
+        "uuid": 15421058,
+        "checksum": "wjwmjo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
